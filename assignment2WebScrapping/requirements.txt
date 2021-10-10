@@ -1,0 +1,1 @@
+It is required to install requests and BeautifulSoup before using this code
